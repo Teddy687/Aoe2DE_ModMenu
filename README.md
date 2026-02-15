@@ -11,7 +11,8 @@ Mod menu for Age of Empires II: Definitive Edition. Works with Steam on Windows 
 ![Overview](1.png) ![Game](2.png) ![In-Game](3.png) ![License](4.png) ![Settings](5.png)
 
 ## About
-For private use only. Singleplayer only. No liability for bans – use at your own risk.
+For private use only. No liability for bans – use at your own risk.
 
 ## Support
 Discord: codemaster988
+
