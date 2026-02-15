@@ -1,47 +1,17 @@
 # Age of Empires 2 DE Mod Menu
 
-Mod-Menü für Age of Empires II: Definitive Edition mit zusätzlichen Spieloptionen. Funktioniert mit der Steam-Version unter Windows 10/11.
+Mod menu for Age of Empires II: Definitive Edition. Works with Steam on Windows 10/11.
 
----
-
-## Funktionen
-
-- Full Map Reveal
-- Unit Vision Through Fog
-- Mini-Map Display
-- Resource Overview
-- Auto Villager Production
-- Auto Monk Training
-- Automatic Building
-- Deer Herding Assist
-- Auto Combat Dodge
-- Early Enemy Harass
-
----
+## Features
+- Full Map Reveal, Unit Vision Through Fog, Mini-Map Display
+- Resource Overview, Auto Villager Production, Auto Monk Training
+- Automatic Building, Deer Herding Assist, Auto Combat Dodge, Early Enemy Harass
 
 ## Screenshots
+![Overview](1.png) ![Game](2.png) ![In-Game](3.png) ![License](4.png) ![Settings](5.png)
 
-![Mod Menu Übersicht](1.png)
-
-![Spielansicht](2.png)
-
-![In-Game](3.png)
-
-![Lizenzverwaltung](4.png)
-
-![Einstellungen](5.png)
-
----
-
-## Über die Software
-
-- Läuft lokal – keine Admin-Rechte nötig, keine Installationen im System
-- Transparent – nur Verbindung zum Spiel und Lizenzserver, keine Hintergrundaktivitäten
-- Nur für privaten Gebrauch – Steam-Version, Windows 10/11
-- **Nur im Singleplayer verwenden**
-
----
+## About
+For private use only. Singleplayer only. No liability for bans – use at your own risk.
 
 ## Support
-
-Bei Fragen: Kontakt über Discord.
+Discord: codemaster988
