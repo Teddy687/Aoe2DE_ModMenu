@@ -1,5 +1,7 @@
 # Age of Empires 2 DE Mod Menu
 
+Discord me for 2h free test!! :)
+
 Mod menu for Age of Empires II: Definitive Edition. Works with Steam on Windows 10/11.
 
 ## Features
@@ -15,4 +17,5 @@ For private use only. No liability for bans – use at your own risk.
 
 ## Support
 Discord: codemaster988
+
 
